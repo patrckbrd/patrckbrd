@@ -11,7 +11,7 @@ I am a career shifter transitioning into cybersecurity, bringing years of experi
 ## Introduction 
 This capstone project simulates a real-world cybersecurity scenario. As a student, my task was to conduct a "structured walkthrough" penetration test of a fictional company, Artemis, Inc. A structured walkthrough is a method used by a group of peers to review and discuss the technical aspects of IT in general, IT security, and IT audit work products. Also, a structured walkthrough's main objectives are to identify errors and to improve the quality of the product, services, and ensure the safety of the organization's IT environment. 
 ## Phase 1
-##Perform Reconnaissance - https://bit.ly/reconpatdocot
+## Perform Reconnaissance - https://bit.ly/reconpatdocot
 
 In this phase, active reconnaissance is recommended, as Artemis provided explicit permission to thoroughly investigate their IT environment. They shared important details about their technology stack including their current Network Infrastructure, Cloud and On-prem Hosting, Identity and Access Management (IAM), Enterprise Applications, and Proprietary/Internal Applications.
 
