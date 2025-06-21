@@ -22,6 +22,8 @@ Identify Target and Run Scans - https://bit.ly/scanspatdocot
 
 Phase 2 involves identifying the tools and techniques used for host discovery and enumeration. Most of the tools discussed in this paper are available in Kali. 
 ## Phase 3
+
+Phase 3 focuses on identifying the tools and techniques for vulnerability scanning. The use of Tenable Nessus and OpenVAS is mandatory. Also, the task includes scanning for vulnerability within specific technologies or platforms such as remote access services, and web applications. Additionally, screenshots of the configuration options and settings must be provided, along with the pros and cons of each tool. 
 Identify Vulnerabilities - https://bit.ly/vulpatdocot
 ## Phase 4
 Threat Assessment - https://bit.ly/threatpatdocot
