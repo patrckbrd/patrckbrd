@@ -31,3 +31,5 @@ Threat Assessment - https://bit.ly/threatpatdocot
 The paper outlines 9 threat assessment scenarios based on vulnerabilities that may emerge when an analyst performs an actual scan of the client’s network. The corresponding spreadsheet will describe and list each vulnerability, the affected OS or versions, the risks associated with exploitation attempts, potential attacker actions upon successful exploitation, recommended remediation steps, and the CVSS score.
 ## Phase 5
 Reporting - https://bit.ly/reportpatdocot
+
+The final phase of this penetration test is reporting. This chapter is divided into two parts: (1) a mock executive summary and (2) a mock detailed technical report for the client's IT staff. The executive summary highlights the business impact of the findings, while the detailed technical report includes the scope and approach, reconnaissance activities, identified vulnerabilities, and an analysis of current threats to the organization’s IT environment.
