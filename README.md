@@ -27,5 +27,7 @@ Identify Vulnerabilities - https://bit.ly/vulpatdocot
 Phase 3 focuses on identifying the tools and techniques for vulnerability scanning. The use of Tenable Nessus and OpenVAS is mandatory. Also, the task includes scanning for vulnerability within specific technologies or platforms such as remote access services, and web applications. Additionally, screenshots of the configuration options and settings must be provided, along with the pros and cons of each tool. 
 ## Phase 4
 Threat Assessment - https://bit.ly/threatpatdocot
+
+The paper outlines 9 threat assessment scenarios based on vulnerabilities that may emerge when an analyst performs an actual scan of the client’s network. The corresponding spreadsheet will describe and list each vulnerability, the affected OS or versions, the risks associated with exploitation attempts, potential attacker actions upon successful exploitation, recommended remediation steps, and the CVSS score.
 ## Phase 5
 Reporting - https://bit.ly/reportpatdocot
