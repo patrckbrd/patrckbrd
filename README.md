@@ -19,6 +19,8 @@ I also recommended conducting passive reconnaissance using OSINT tools to gather
  
 ## Phase 2
 Identify Target and Run Scans - https://bit.ly/scanspatdocot
+
+Phase 2 involves identifying the tools and techniques used for host discovery and enumeration. Most of the tools discussed in this paper are available in Kali. 
 ## Phase 3
 Identify Vulnerabilities - https://bit.ly/vulpatdocot
 ## Phase 4
